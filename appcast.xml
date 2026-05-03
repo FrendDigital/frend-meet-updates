@@ -11,7 +11,7 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<pre>Release v1.0.1</pre>]]></description>
             <enclosure
-                url="https://github.com/FrendDigital/Transcribe/releases/download/v1.0.1/Frend-Meet-1.0.1.zip"
+                url="https://frenddigital.github.io/frend-meet-updates/releases/Frend-Meet-1.0.1.zip"
                 sparkle:edSignature="o6UCGZK8bBjP1EMcKMXWFlZU/fNA7MX5a2EXnAaPyq8ZEGE3zVsv4zbGCTyo3wW7pPGhOmNZAJtpFnW6CvvaCQ=="
                 length="3541638"
                 type="application/octet-stream" />
