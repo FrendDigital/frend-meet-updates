@@ -55,5 +55,18 @@
                 length="3592701"
                 type="application/octet-stream" />
         </item>
+        <item>
+            <title>Frend Meet 1.1.1</title>
+            <pubDate>Fri, 05 Jun 2026 23:25:35 +0000</pubDate>
+            <sparkle:version>1.1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<pre>Release v1.1.1 (#21)</pre>]]></description>
+            <enclosure
+                url="https://frenddigital.github.io/frend-meet-updates/releases/Frend-Meet-1.1.1.zip"
+                sparkle:edSignature="mLRTWQqBdCpO/HMJDqs53/DbyIEu01QptmU+/48Wjw6yc7iek4vNCM8CaEu04/wt52xdZ1x3fGmu4Y1buaZPAg=="
+                length="3646120"
+                type="application/octet-stream" />
+        </item>
         </channel>
 </rss>
